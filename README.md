@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-** My name is John lee Dialal nice to meet you ma'am and sir!!
+### Hi there 👋 My name is John lee Dialal nice to meet you ma'am and sir!!
 
 Here are some ideas to get you started:
 
